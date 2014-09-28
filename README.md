@@ -1,0 +1,3 @@
+# ssdemo
+
+SuperStatic Configuration Demo.

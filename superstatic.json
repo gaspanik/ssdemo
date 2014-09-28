@@ -1,0 +1,14 @@
+{
+  "name": "ssdemo",
+  "root": "./",
+  "routes": {
+    "/": "start.html",
+    "/index": "home.html"
+  },
+  "clean_urls": true,
+  "error_page": "error.html",
+  "cache_control": {
+    "/*": false,
+    "**/*.html": 600
+  }
+}
